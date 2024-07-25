@@ -1,0 +1,16 @@
+.carousel-img {
+    height: 50vh;
+    object-fit: cover; /* Ensures the image covers the container without stretching */
+  }
+  .carousel-container {
+  height: 50vh; /* Set the height of the container to 50% of the viewport height */
+}
+
+.carousel-item {
+  height: 100%;
+}
+
+.carousel-img {
+  height: 100%;
+  object-fit: cover; /* Ensures the image covers the container without stretching */
+}
